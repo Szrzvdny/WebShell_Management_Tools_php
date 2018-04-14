@@ -1,2 +1,3 @@
 # WebShell_Management_Tools_php
-Web 菜刀模块化，方便使用
+# Prat 0 开发
+使用Python+php开发，php作为前端，python作为后端处理
